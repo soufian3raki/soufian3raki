@@ -30,6 +30,15 @@
   <img align="center" alt=" " src="https://github.com/soufian3raki/soufian3raki/blob/main/github-contribution-grid-snake.svg">
 </div>
 
+<div align="center">
+  <a href="https://github.com/soufian3raki">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=soufian3raki&theme=synthwave&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
+  </a>
+  <a href="https://github.com/soufian3raki">
+     <img height="160em" src="https://activity-graph.herokuapp.com/graph?username=soufian3raki&bg_color=2b213a&color=FFFFFF&line=e5289e&point=FFFFFF&hide_border=true" />
+   </a>
+</div>
+
 ## Donde me puedes encontrar
 
 _Personal_
