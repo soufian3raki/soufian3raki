@@ -1,9 +1,9 @@
 ## Hola!👋 Mi Nombre es Soufiane
-
+ 
 <div align="center">
   <a href="https://github.com/soufian3raki">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=soufian3raki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufian3raki&layout=compact&langs_count=7&theme=dracula" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=soufian3raki&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufian3raki&layout=compact&langs_count=7&theme=synthwave" />
   </a>
   <br />
 </div>
@@ -37,8 +37,21 @@ _Personal_
 
 _Emprendimiento_
  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=synthwave" />
+  </a>
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=synthwave" />
+  </a>
+</div>
+<br>
 
-
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:soufiane@programmer.net)](mailto:soufiane@programmer.net)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/abdelrazek-nageh-457511178/)
+[![Twitter Badge](https://img.shields.io/badge/-00acee?style=flat&logo=twitter&logoColor=white&link=)](https://www.twitter.com/soufian3raki/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blueviolet?style=flat&link=https://cv.l5enio.com/)](https://cv.l5enio.com/)
+[![](https://komarev.com/ghpvc/?username=soufian3raki&color=blueviolet)](https://cv.l5enio.com/)
 
 #### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
   ![GitHub stars](https://img.shields.io/github/stars/soufian3raki/portfolio?style=social)
