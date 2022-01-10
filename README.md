@@ -38,11 +38,11 @@ _Personal_
 _Emprendimiento_
  
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=synthwave" />
+  <a href="https://github.com/nuvolcrm/nuvolcrm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuvolcrm&repo=nuvolcrm&theme=synthwave" />
   </a>
-  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=synthwave" />
+  <a href="https://github.com/soufian3raki/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soufian3raki&repo=portfolio&theme=synthwave" />
   </a>
 </div>
 <br>
