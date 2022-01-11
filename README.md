@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### Hi there 👋, my name is Soufiane
+# Hi there 👋, my name is Soufiane
 ![](https://github.com/soufian3raki/soufian3raki/blob/main/template.png)
 
 I'm a **web developer** from Valencia, Spain. I have a rich experience in designing and building websites and customization.
@@ -24,7 +24,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
  
 
  
-# contact me:
+### contact me:
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soufian3raki)  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sooufiane-raki-10665a9b/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3-3.svg' alt='facebook' height='40'>](https://www.facebook.com/soufian3raki)  [<img src='https://cdn.worldvectorlogo.com/logos/instagram-5.svg' alt='instagram' height='40'>](https://www.instagram.com/soufian3raki/)  [<img src='https://cdn.worldvectorlogo.com/logos/twitter-3.svg' alt='twitter' height='40'>](https://twitter.com/soufian3raki)  [<img src='https://cdn.worldvectorlogo.com/logos/codepen-icon.svg' alt='codepen' height='40'>](https://codepen.io/soufian3raki-the-bashful)  [<img src='https://cv.l5enio.com/img/icon.svg' alt='website' height='40'>](https://cv.l5enio.com/)  [<img src='https://cdn.worldvectorlogo.com/logos/telegram.svg' alt='telegram' height='40'>](https://t.me/soufian3raki)  
 
