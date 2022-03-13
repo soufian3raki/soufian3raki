@@ -8,6 +8,8 @@
 
 ### I'm a web developer from Valencia, Spain. I have a rich experience in designing and building websites 👨‍💻 and customization.  🚀  
   
+<img src="https://raw.githubusercontent.com/soufian3raki/soufian3raki/main/qr_code.svg" alt="QR Code" title="QR Code" height="250" align="right" />
+<br/>  
 
 - 🔭 I’m currently working on [CV](https://cv.l5enio.com/)  
   
@@ -19,7 +21,7 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
+
 
 <br/>  
 
