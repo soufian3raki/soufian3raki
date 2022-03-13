@@ -5,16 +5,17 @@
  
 ![](https://github.com/soufian3raki/soufian3raki/blob/main/template.png)
 </div>
+
 ### I'm a web developer from Valencia, Spain. I have a rich experience in designing and building websites 👨‍💻 and customization.  🚀  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [CV](https://cv.l5enio.com/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning JavaScript and TypeScript  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JavaScript and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -70,6 +71,8 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=" alt="Figma logo" title="Figma" height="25" />
     &nbsp;
+    <img src="https://img.shields.io/badge/Adobe_XD-282C34?logo=adobexd&logoColor=" alt="Adobe XD logo" title="Adobe XD" height="25" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Arduino-282C34?logo=Arduino&logoColor=" alt="Arduino logo" title="Arduino" height="25" />
 </details>
 <details>
@@ -102,7 +105,7 @@
 <a href="https://t.me/soufian3raki" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 <a href="https://cv.l5enio.com/" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23131417.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=web style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Portfolio-blueviolet.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=web style="margin-bottom: 5px;" />
 </a> 
 </div>   
 <br/>   
@@ -135,16 +138,16 @@
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-<br/>  
-<img src="https://komarev.com/ghpvc/?username=soufian3raki&&style=flat-square" align="center" />
+<br/> 
+ <div align="center">
+<img src="https://komarev.com/ghpvc/?username=soufian3raki&&style=for-the-badge&&color=blueviolet" align="center" />
 <a href="https://paypal.me/soufian3raki" target="_blank" style="display: inline-block;">
     <img
-        src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+        src="https://img.shields.io/badge/Donate-PayPal-blue.svg?&style=for-the-badge&logo=paypal&logoColor=white" 
         align="center"
     />
 </a>
 <br/>  
-<div align="center">
  
 ![](https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)  
 ![GitHub platane](https://github.com/soufian3raki/soufian3raki/blob/main/github-contribution-grid-snake-1-11-2022.svg)  
