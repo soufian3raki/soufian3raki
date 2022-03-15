@@ -7,8 +7,9 @@
 </div>
 
 ### I'm a web developer from Valencia, Spain. I have a rich experience in designing and building websites 👨‍💻 and customization.  🚀  
-  
-<img src="https://raw.githubusercontent.com/soufian3raki/soufian3raki/main/qr_code.svg" alt="QR Code" title="QR Code" height="250" align="right" />
+ <a href="https://cv.l5enio.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/soufian3raki/soufian3raki/main/qr_code.svg" alt="QR Code" title="QR Code" height="250" align="right" />
+ </a>
 <br/>  
 
 - 🔭 I’m currently working on [CV](https://cv.l5enio.com/)  
