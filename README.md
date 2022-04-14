@@ -7,12 +7,12 @@
 </div>
 
 ### I'm a web developer from Valencia, Spain. I have a rich experience in designing and building websites 👨‍💻 and customization.  🚀  
- <a href="https://cv.l5enio.com/" target="_blank">
+ <a href="https://cv.soufiane.es/" target="_blank">
    <img src="https://raw.githubusercontent.com/soufian3raki/soufian3raki/main/qr_code.svg" alt="QR Code" title="QR Code" height="250" align="right" />
  </a>
 <br/>  
 
-- 🔭 I’m currently working on [CV](https://cv.l5enio.com/)  
+- 🔭 I’m currently working on [CV](https://cv.soufiane.es/)  
   
 
 - 🌱 I’m currently learning JavaScript and TypeScript  
@@ -109,7 +109,7 @@
 </a>  
 <a href="https://t.me/soufian3raki" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-<a href="https://cv.l5enio.com/" target="_blank">
+<a href="https://cv.soufiane.es/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-blueviolet.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=web style="margin-bottom: 5px;" />
 </a> 
 </div>   
