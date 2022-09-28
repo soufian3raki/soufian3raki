@@ -47,6 +47,12 @@
     <img src="https://img.shields.io/badge/Jquery-282C34?logo=Jquery&logoColor=0068ab" alt="Jquery logo" title="Jquery" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=563d7c" alt="Bootstrap logo" title="Bootstrap" height="25" />
+     &nbsp;
+    <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=d6002f" alt="Angular logo" title="Angular" height="25" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js logo" title="Vue.js" height="25" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=5ed3f3" alt="React logo" title="React" height="25" />
 </details>
 <details open>
     <summary>Backend</summary>
@@ -55,12 +61,6 @@
     <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=f72c1f" alt="Laravel logo" title="Laravel" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=507e9c" alt="Java logo" title="Java" height="25" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=d6002f" alt="Angular logo" title="Angular" height="25" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js logo" title="Vue.js" height="25" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=5ed3f3" alt="React logo" title="React" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL" alt="MySQL logo" title="MySQL" height="25" />
 </details>
