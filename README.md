@@ -36,19 +36,15 @@
     &nbsp;
     <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=" alt="PUG logo" title="PUG" height="25" />
+    <img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte&logoColor=" alt="Svelte logo" title="Svelte" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
+    <img src="https://img.shields.io/badge/Astro-282C34?logo=astro&logoColor=CC6699" alt="Astro logo" title="Astro" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/Jquery-282C34?logo=Jquery&logoColor=0068ab" alt="Jquery logo" title="Jquery" height="25" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=563d7c" alt="Bootstrap logo" title="Bootstrap" height="25" />
-     &nbsp;
-    <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=d6002f" alt="Angular logo" title="Angular" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js logo" title="Vue.js" height="25" />
     &nbsp;
@@ -60,7 +56,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=f72c1f" alt="Laravel logo" title="Laravel" height="25" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=507e9c" alt="Java logo" title="Java" height="25" />
+    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=507e9c" alt="Node.js logo" title="Node.js" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL" alt="MySQL logo" title="MySQL" height="25" />
 </details>
