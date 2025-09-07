@@ -38,7 +38,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte&logoColor=" alt="Svelte logo" title="Svelte" height="25" />
     &nbsp;
-    <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+    <img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/Astro-282C34?logo=astro&logoColor=CC6699" alt="Astro logo" title="Astro" height="25" />
     &nbsp;
